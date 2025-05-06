@@ -1,0 +1,32 @@
+Move 1: Ayesha -> Position 9
+Board After Move:
+1 | 2 | 3
+-----------
+4 | 5 | 6
+-----------
+7 | 8 | X
+
+Move 2: Nimra -> Position 3
+Board After Move:
+1 | 2 | O
+-----------
+4 | 5 | 6
+-----------
+7 | 8 | X
+
+Move 3: Ayesha -> Position 7
+Board After Move:
+1 | 2 | O
+-----------
+4 | 5 | 6
+-----------
+X | 8 | X
+
+Move 4: Nimra -> Position 8
+Board After Move:
+1 | 2 | O
+-----------
+4 | 5 | 6
+-----------
+X | O | X
+
